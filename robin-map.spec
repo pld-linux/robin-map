@@ -6,7 +6,7 @@
 Summary:	A C++ implementation of a fast hash map and hash set using robin hood hashing
 Name:		robin-map
 Version:	0.6.1
-Release:	0.1
+Release:	1
 License:	MIT
 Group:		Libraries
 Source0:	https://github.com/Tessil/robin-map/archive/v%{version}/%{name}-%{version}.tar.gz
