@@ -1,5 +1,5 @@
 Summary:	A C++ implementation of a fast hash map and hash set using robin hood hashing
-Summary(pl.UTF-8):	Implementacja C++ szybkiej tablicy asocjacyjnej i zboru wykorzytujących haszowanie robin hood
+Summary(pl.UTF-8):	Implementacja C++ szybkiej tablicy asocjacyjnej i zbioru wykorzytujących haszowanie robin hood
 Name:		robin-map
 Version:	0.6.2
 Release:	1
