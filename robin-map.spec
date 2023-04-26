@@ -1,15 +1,16 @@
 Summary:	A C++ implementation of a fast hash map and hash set using robin hood hashing
 Summary(pl.UTF-8):	Implementacja C++ szybkiej tablicy asocjacyjnej i zbioru wykorzytujących haszowanie robin hood
 Name:		robin-map
-Version:	0.6.3
+Version:	1.2.1
 Release:	1
 License:	MIT
 Group:		Libraries
 #Source0Download: https://github.com/Tessil/robin-map/releases
 Source0:	https://github.com/Tessil/robin-map/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	e6a362bff8372bbb4d901d2e28993a8a
+# Source0-md5:	52b996544ac47bc89faabef5acf8d6e6
 URL:		https://github.com/Tessil/robin-map
 BuildRequires:	cmake >= 3.1
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
